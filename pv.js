@@ -1,5 +1,5 @@
 
-var des = new Date(2022, 0, 1).getTime();
+var des = new Date(2021, 10, 26).getTime();
 var now = new Date().getTime();
 
 var res = des - now;
