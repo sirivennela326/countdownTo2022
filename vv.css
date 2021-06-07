@@ -46,7 +46,7 @@ div.c2{
     }
 }
 
-@media(max-width:768px){
+@media(max-width:608px){
     html{
         font-size: 45%;
     }
